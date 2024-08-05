@@ -1,0 +1,38 @@
+_repo: The-Deseado-Formation-of-Patagonia_74077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loomis, Frederic Brewster
+    alias: Loomis, F. B. (Frederic Brewster)
+    birthdate: 1873
+    deathdate: 1937
+    gutenberg_agent_id: '48312'
+    url: http://www.gutenberg.org/2009/agents/48312
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Brewster_Loomis
+description: '"The results of the Amherst Patagonian expedition were divided into
+  two parts, the general features, together with the narrative, were reported in a
+  separate volume entitled, ''Hunting extinct animals in the Patagonian pampas,''
+  published in 1913. For this volume has been reserved the description of the material
+  found and such conclusions as are directly derived from that material."--Preface.'
+gutenberg_issued: '2024-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74077'
+  lccn: '14014187'
+language: en
+pgterms:marc904: https://archive.org/details/deseadoformation00loomrich/page/n5/mode/2up
+pgterms:marc905: 20221027161920loomis
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aConcord :$bRumford Press, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology -- Patagonia (Argentina and Chile)'
+- !lcc 'QE'
+- GITenberg
+title: The Deseado Formation of Patagonia
+url: http://www.gutenberg.org/ebooks/74077
