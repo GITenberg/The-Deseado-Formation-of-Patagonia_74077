@@ -1,5 +1,8 @@
 _repo: The-Deseado-Formation-of-Patagonia_74077
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74077-h/images/cover.jpg
 creator:
   author:
     agent_name: Loomis, Frederic Brewster
@@ -14,6 +17,8 @@ description: '"The results of the Amherst Patagonian expedition were divided int
   separate volume entitled, ''Hunting extinct animals in the Patagonian pampas,''
   published in 1913. For this volume has been reserved the description of the material
   found and such conclusions as are directly derived from that material."--Preface.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74077#The-Deseado-Formation-of-Patagonia
 gutenberg_issued: '2024-07-19'
 gutenberg_type: Text
 identifiers:
